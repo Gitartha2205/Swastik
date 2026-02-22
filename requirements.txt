@@ -1,0 +1,6 @@
+Flask==2.0
+SQLAlchemy==1.4
+python-dotenv==0.17
+Flask-Login==0.5
+Flask-WTF==0.15
+Flask-Migrate==3.1
